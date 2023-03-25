@@ -14,7 +14,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Highlight
 
+### Tutorials
 
++ [Teaching ChatGPT What It Doesn’t Know](https://jameshwade.com/posts/2023-03-10_vectorstores.html)
 
 ### Insights
 
@@ -23,6 +25,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 + [Some love for Base R. Part 2](https://luis.apiolaza.net/2023/03/18/some-love-for-base-r-part-2/)
 
 + [Why should I use R: The Excel R Data Wrangling comparison: Part 1](https://www.jumpingrivers.com/blog/comparing-r-excel-data-wrangling/)
+
 
 ### R in the Real World
 
