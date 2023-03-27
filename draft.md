@@ -14,6 +14,8 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ###  Highlight
 
+### Tutorials
+
 [Teaching ChatGPT What It Doesn’t Know](https://jameshwade.com/posts/2023-03-10_vectorstores.html)
 
 ### Insights
